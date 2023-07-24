@@ -21,6 +21,8 @@ body {
 
     margin: 0 auto;
     display: flex;
+    height: 100vh;
+    max-height: 900px;
 }
 .section-bg {
     background-image: url(bg.jpg);
